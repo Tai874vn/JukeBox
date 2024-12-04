@@ -1,0 +1,44 @@
+{
+    "01": {
+        "name": "Another Brick in the Wall",
+        "artist": "Pink Floyd",
+        "rating": 4,
+        "play_count": 0,
+        "file_path": "file path goes here"
+    },
+    "02": {
+        "name": "Stayin' Alive",
+        "artist": "Bee Gees",
+        "rating": 5,
+        "play_count": 0,
+        "file_path": "file path goes here"
+    },
+    "03": {
+        "name": "Highway to Hell",
+        "artist": "AC/DC",
+        "rating": 4,
+        "play_count": 0,
+        "file_path": "file path goes here"
+    },
+    "04": {
+        "name": "Shape of You",
+        "artist": "Ed Sheeran",
+        "rating": 1,
+        "play_count": 0,
+        "file_path": "file path goes here"
+    },
+    "05": {
+        "name": "Someone Like You",
+        "artist": "Adele",
+        "rating": 3,
+        "play_count": 0,
+        "file_path": "file path goes here"
+    },
+    "06": {
+        "name": "Dành Hết Xuân Thì Để Chờ Nhau",
+        "artist": "Vũ , Hà Anh Tuấn",
+        "rating": 4,
+        "play_count": 45,
+        "file_path": "file path goes here"
+    }
+}
